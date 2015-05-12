@@ -60,4 +60,8 @@ You will also need a github account, (https://github.com).
   	-	go to cps-content-api
   		run : node app
 
+#Usefull links
+- SUNWEB Confluence page : https://nidigitalsolutions.jira.com/secure/RapidBoard.jspa?rapidView=204
+- SUNWEB Jira page : https://nidigitalsolutions.jira.com/secure/RapidBoard.jspa?rapidView=204
+- Intranet : http://intranet.news.co.uk/
 
