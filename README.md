@@ -12,7 +12,7 @@ You will also need a github account, (https://github.com).
 		https://github.com/newsinternational
 		https://github.com/orgs/newsinternational/teams/cps
 		https://github.com/orgs/newsinternational/teams/sunweb ( legacy, probably you don't need it)
-	-	make sure you eplcitely ask for access to the following : 
+	-	make sure you explicitly ask for access to the following : 
 		cps-content-ingest
 		cps-content-api
 		nu-sunweb-content-renderer-tablet-feed
