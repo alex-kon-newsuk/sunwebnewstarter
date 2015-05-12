@@ -1,4 +1,4 @@
-#New starter SUNWEB getting started notes
+#SUNWEB getting started notes
 To continue after step 2, you will need admin access rights. If you don't have this, submit an Enhanced Desktop Access Form first.
 You will also need a github account, (https://github.com). 
 
